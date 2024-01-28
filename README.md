@@ -5,7 +5,7 @@ This diverse dataset contains information about the startup ecosystem.
 This diverse dataset contains information about the startup ecosystem: organizations, individuals,
 company news, funding rounds, acquisitions, and IPOs.
 There are 11 tables that can be joined using unique IDs (schema to follow). More information about the
-individual data variables can be found on the Crunchabse Data website (under the API Entities Types
+individual data variables can be found on the Crunchbase Data website (under the API Entities Types
 section).
 
 ## Objectives
